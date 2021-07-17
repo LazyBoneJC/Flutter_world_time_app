@@ -1,4 +1,4 @@
-# Flutter_world_time_app
+# Flutter World Time App
 * This is a Flutter World Time App.
 
 * You can press the button "Edit location" to change the Time Zone.
